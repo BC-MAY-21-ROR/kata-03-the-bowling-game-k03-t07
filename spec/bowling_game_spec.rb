@@ -1,4 +1,4 @@
-require_relative *../src/bowling_game*
+require './src/bowling_game'
 
 RSpec.describe Bowling_game do
     it "exists" do
